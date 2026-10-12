@@ -2,12 +2,17 @@ import { LineChart, Line, ResponsiveContainer, ReferenceLine } from "recharts"
 
 function RiskBadge({ level }) {
   const styles = {
-    low: "bg-green-100 text-green-700 border border-green-300",
-    medium: "bg-amber-100 text-amber-700 border border-amber-300",
-    high: "bg-red-100 text-red-700 border border-red-300",
+    low: "bg-green-500/10 text-green-400 border border-green-500/30",
+    medium: "bg-amber-500/10 text-amber-400 border border-amber-500/30",
+    high: "bg-red-500/10 text-red-400 border border-red-500/30",
   }
   return (
-    <span className={`px-2 py-0.5 rounded-full text-xs font-bold uppercase ${styles[level] || styles.medium}`}>
+    <span className={`
+      inline-flex items-center px-2 py-0.5 rounded-full 
+      text-xs font-bold uppercase tracking-wide
+      whitespace-nowrap shrink-0
+      ${styles[level] || styles.medium}
+    `}>
       {level} risk
     </span>
   )
@@ -35,7 +40,7 @@ export default function ScenarioPanel({ scenarios }) {
         {scenarios.map((s, i) => (
           <div key={i} className="bg-white rounded-2xl shadow-md p-5 flex flex-col gap-3">
             <div className="flex items-start justify-between gap-2">
-              <h4 className="font-bold text-gray-800 text-sm leading-tight">{s.name}</h4>
+              <h4 className="font-bold text-white text-sm leading-tight flex-1">{s.name}</h4>
               <RiskBadge level={s.risk_level} />
             </div>
             <p className="text-xs text-gray-500">{s.description}</p>
