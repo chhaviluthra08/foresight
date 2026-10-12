@@ -1,0 +1,93 @@
+date,type,amount,category,description,confirmed
+2026-07-14,expense,45000,supplier_payment,Mehta Electricals - Stock replenishment,true
+2026-07-15,income,80000,customer_payment,Rajiv Stores - Invoice #101,true
+2026-07-16,expense,18500,salary,Staff salary - July week 1,true
+2026-07-17,income,35000,customer_payment,Sunita Electronics - Invoice #102,true
+2026-07-18,expense,5200,utilities,Electricity bill - July,true
+2026-07-19,income,22000,advance,New order advance - Kapoor Traders,true
+2026-07-20,expense,8000,discretionary,Shop display upgrade,true
+2026-07-21,income,60000,customer_payment,Sharma Distributors - Invoice #103,true
+2026-07-22,expense,32000,supplier_payment,Delhi Components Ltd - Monthly stock,true
+2026-07-23,income,45000,customer_payment,Gupta Electronics - Invoice #104,true
+2026-07-24,expense,18500,salary,Staff salary - July week 2,true
+2026-07-25,income,28000,customer_payment,Verma Traders - Invoice #105,true
+2026-07-26,expense,12000,gst,GST payment - July,true
+2026-07-27,income,55000,customer_payment,Anand Electronics - Invoice #106,true
+2026-07-28,expense,5500,utilities,Internet and phone - July,true
+2026-07-29,income,38000,customer_payment,Patel Stores - Invoice #107,true
+2026-07-30,expense,45000,supplier_payment,Mehta Electricals - Quarterly restock,true
+2026-07-31,income,70000,customer_payment,Rajiv Stores - Invoice #108,true
+2026-08-01,expense,18500,salary,Staff salary - August week 1,true
+2026-08-02,income,42000,customer_payment,Sunita Electronics - Invoice #109,true
+2026-08-03,expense,22000,emi,EMI - Business loan August,true
+2026-08-04,income,30000,customer_payment,Kapoor Traders - Invoice #110,true
+2026-08-05,expense,6000,discretionary,Marketing materials,true
+2026-08-06,income,65000,customer_payment,Sharma Distributors - Invoice #111,true
+2026-08-07,expense,38000,supplier_payment,Delhi Components Ltd - August stock,true
+2026-08-08,income,48000,customer_payment,Gupta Electronics - Invoice #112,true
+2026-08-09,expense,18500,salary,Staff salary - August week 2,true
+2026-08-10,income,32000,customer_payment,Verma Traders - Invoice #113,true
+2026-08-11,expense,5200,utilities,Electricity bill - August,true
+2026-08-12,income,58000,customer_payment,Anand Electronics - Invoice #114,true
+2026-08-13,expense,12000,gst,GST payment - August,true
+2026-10-11,income,75000,customer_payment,Rajiv Stores - Invoice #115,true
+2026-10-12,expense,45000,supplier_payment,Mehta Electricals - October stock,true
+2026-10-13,income,52000,customer_payment,Sunita Electronics - Invoice #116,false
+2026-10-14,expense,18500,salary,Staff salary - October week 1,true
+2026-10-15,income,38000,customer_payment,Kapoor Traders - Invoice #117,true
+2026-10-16,expense,22000,emi,EMI - Business loan October,true
+2026-10-17,income,65000,customer_payment,Sharma Distributors - Invoice #118,false
+2026-10-18,expense,8500,utilities,Electricity and internet - October,true
+2026-10-19,income,42000,customer_payment,Gupta Electronics - Invoice #119,true
+2026-10-20,expense,35000,supplier_payment,Delhi Components Ltd - October stock,true
+2026-10-21,income,28000,customer_payment,Verma Traders - Invoice #120,true
+2026-10-22,expense,18500,salary,Staff salary - October week 2,true
+2026-10-23,income,55000,customer_payment,Anand Electronics - Invoice #121,false
+2026-10-24,expense,12000,gst,GST payment - October,true
+2026-10-25,income,48000,customer_payment,Patel Stores - Invoice #122,true
+2026-10-26,expense,6000,discretionary,Festival display decorations,true
+2026-10-27,income,70000,customer_payment,Rajiv Stores - Invoice #123,true
+2026-10-28,expense,42000,supplier_payment,Mehta Electricals - Festival stock,true
+2026-10-29,income,35000,customer_payment,Sunita Electronics - Invoice #124,true
+2026-10-30,expense,18500,salary,Staff salary - October week 3,true
+2026-10-31,income,60000,customer_payment,Kapoor Traders - Invoice #125,true
+2026-11-01,expense,22000,emi,EMI - Business loan November,true
+2026-11-02,income,45000,customer_payment,Sharma Distributors - Invoice #126,false
+2026-11-03,expense,38000,supplier_payment,Delhi Components Ltd - November stock,true
+2026-11-04,income,52000,customer_payment,Gupta Electronics - Invoice #127,true
+2026-11-05,expense,18500,salary,Staff salary - November week 1,true
+2026-11-06,income,30000,customer_payment,Verma Traders - Invoice #128,true
+2026-11-07,expense,5200,utilities,Electricity bill - November,true
+2026-11-08,income,68000,customer_payment,Anand Electronics - Invoice #129,false
+2026-11-09,expense,12000,gst,GST payment - November,true
+2026-11-10,income,42000,customer_payment,Patel Stores - Invoice #130,true
+2026-11-11,expense,7000,discretionary,Staff uniforms,true
+2026-11-12,income,75000,customer_payment,Rajiv Stores - Invoice #131,true
+2026-11-13,expense,45000,supplier_payment,Mehta Electricals - November restock,true
+2026-11-14,income,55000,customer_payment,Sunita Electronics - Invoice #132,true
+2026-11-15,expense,18500,salary,Staff salary - November week 2,true
+2026-11-16,income,38000,customer_payment,Kapoor Traders - Invoice #133,true
+2026-11-17,expense,22000,emi,EMI - Business loan December,true
+2026-11-18,income,62000,customer_payment,Sharma Distributors - Invoice #134,false
+2026-11-19,expense,35000,supplier_payment,Delhi Components Ltd - December stock,true
+2026-11-20,income,48000,customer_payment,Gupta Electronics - Invoice #135,true
+2026-11-21,expense,18500,salary,Staff salary - November week 3,true
+2026-11-22,income,32000,customer_payment,Verma Traders - Invoice #136,true
+2026-11-23,expense,5500,utilities,Internet and phone - November,true
+2026-11-24,income,58000,customer_payment,Anand Electronics - Invoice #137,true
+2026-11-25,expense,12000,gst,GST payment - December,true
+2026-11-26,income,44000,customer_payment,Patel Stores - Invoice #138,true
+2026-11-27,expense,8000,discretionary,Year end planning materials,true
+2026-11-28,income,72000,customer_payment,Rajiv Stores - Invoice #139,false
+2026-11-29,expense,42000,supplier_payment,Mehta Electricals - Year end stock,true
+2026-11-30,income,50000,customer_payment,Sunita Electronics - Invoice #140,true
+2026-12-01,expense,18500,salary,Staff salary - December week 1,true
+2026-12-02,income,40000,customer_payment,Kapoor Traders - Invoice #141,true
+2026-12-03,expense,22000,emi,EMI - Business loan January,true
+2026-12-04,income,65000,customer_payment,Sharma Distributors - Invoice #142,true
+2026-12-05,expense,38000,supplier_payment,Delhi Components Ltd - January stock,true
+2026-12-06,income,48000,customer_payment,Gupta Electronics - Invoice #143,false
+2026-12-07,expense,18500,salary,Staff salary - December week 2,true
+2026-12-08,income,35000,customer_payment,Verma Traders - Invoice #144,true
+2026-12-09,expense,5200,utilities,Electricity bill - December,true
+2026-12-10,income,60000,customer_payment,Anand Electronics - Invoice #145,true

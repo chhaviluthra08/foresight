@@ -1,0 +1,93 @@
+date,type,amount,category,description,confirmed
+2026-07-14,expense,55000,supplier_payment,Ananya Fabrics - Monthly fabric stock,true
+2026-07-15,income,90000,customer_payment,Luxe Boutique Delhi - Invoice #201,true
+2026-07-16,expense,22000,salary,Staff salary - July week 1,true
+2026-07-17,income,48000,customer_payment,Trendy Wear Exports - Invoice #202,true
+2026-07-18,expense,6800,utilities,Electricity bill - July,true
+2026-07-19,income,35000,advance,Advance payment - Fashion Week order,true
+2026-07-20,expense,12000,discretionary,Showroom renovation partial,true
+2026-07-21,income,72000,customer_payment,Style Hub Mumbai - Invoice #203,true
+2026-07-22,expense,48000,supplier_payment,Rajasthan Textiles - Silk consignment,true
+2026-07-23,income,55000,customer_payment,Gupta Garments - Invoice #204,true
+2026-07-24,expense,22000,salary,Staff salary - July week 2,true
+2026-07-25,income,38000,customer_payment,Modern Threads - Invoice #205,true
+2026-07-26,expense,15000,gst,GST payment - July,true
+2026-07-27,income,65000,customer_payment,Kapoor Fashion House - Invoice #206,true
+2026-07-28,expense,7200,utilities,Internet and phone - July,true
+2026-07-29,income,42000,customer_payment,Sharma Sarees - Invoice #207,true
+2026-07-30,expense,52000,supplier_payment,Ananya Fabrics - Festival stock,true
+2026-07-31,income,85000,customer_payment,Luxe Boutique Delhi - Invoice #208,true
+2026-08-01,expense,22000,salary,Staff salary - August week 1,true
+2026-08-02,income,50000,customer_payment,Trendy Wear Exports - Invoice #209,true
+2026-08-03,expense,28000,emi,EMI - Business expansion loan August,true
+2026-08-04,income,32000,customer_payment,Modern Threads - Invoice #210,true
+2026-08-05,expense,9000,discretionary,Trade fair participation,true
+2026-08-06,income,78000,customer_payment,Style Hub Mumbai - Invoice #211,true
+2026-08-07,expense,45000,supplier_payment,Rajasthan Textiles - August consignment,true
+2026-08-08,income,55000,customer_payment,Gupta Garments - Invoice #212,true
+2026-08-09,expense,22000,salary,Staff salary - August week 2,true
+2026-08-10,income,40000,customer_payment,Kapoor Fashion House - Invoice #213,true
+2026-08-11,expense,6800,utilities,Electricity bill - August,true
+2026-08-12,income,62000,customer_payment,Sharma Sarees - Invoice #214,true
+2026-08-13,expense,15000,gst,GST payment - August,true
+2026-10-11,expense,58000,supplier_payment,Ananya Fabrics - October stock,true
+2026-10-12,income,95000,customer_payment,Luxe Boutique Delhi - Invoice #215,false
+2026-10-13,expense,22000,salary,Staff salary - October week 1,true
+2026-10-14,income,42000,customer_payment,Trendy Wear Exports - Invoice #216,false
+2026-10-15,expense,28000,emi,EMI - Business expansion loan October,true
+2026-10-16,income,35000,customer_payment,Modern Threads - Invoice #217,true
+2026-10-17,expense,15000,gst,GST payment - October,true
+2026-10-18,income,68000,customer_payment,Style Hub Mumbai - Invoice #218,false
+2026-10-19,expense,14000,utilities,Electricity and internet - October,true
+2026-10-20,income,38000,customer_payment,Gupta Garments - Invoice #219,true
+2026-10-21,expense,48000,supplier_payment,Rajasthan Textiles - October consignment,true
+2026-10-22,income,28000,customer_payment,Modern Threads - Invoice #220,true
+2026-10-23,expense,22000,salary,Staff salary - October week 2,true
+2026-10-24,income,55000,customer_payment,Kapoor Fashion House - Invoice #221,false
+2026-10-25,expense,18000,discretionary,Unexpected showroom repair,true
+2026-10-26,income,45000,customer_payment,Sharma Sarees - Invoice #222,true
+2026-10-27,expense,52000,supplier_payment,Ananya Fabrics - Festival restock,true
+2026-10-28,income,32000,customer_payment,Trendy Wear Exports - Invoice #223,true
+2026-10-29,expense,22000,salary,Staff salary - October week 3,true
+2026-10-30,income,72000,customer_payment,Luxe Boutique Delhi - Invoice #224,false
+2026-10-31,expense,28000,emi,EMI - Business expansion loan November,true
+2026-11-01,income,48000,customer_payment,Style Hub Mumbai - Invoice #225,false
+2026-11-02,expense,42000,supplier_payment,Rajasthan Textiles - November consignment,true
+2026-11-03,income,35000,customer_payment,Gupta Garments - Invoice #226,true
+2026-11-04,expense,22000,salary,Staff salary - November week 1,true
+2026-11-05,income,28000,customer_payment,Modern Threads - Invoice #227,true
+2026-11-06,expense,6800,utilities,Electricity bill - November,true
+2026-11-07,income,62000,customer_payment,Kapoor Fashion House - Invoice #228,false
+2026-11-08,expense,15000,gst,GST payment - November,true
+2026-11-09,income,40000,customer_payment,Sharma Sarees - Invoice #229,true
+2026-11-10,expense,10000,discretionary,Marketing campaign materials,true
+2026-11-11,income,88000,customer_payment,Luxe Boutique Delhi - Invoice #230,true
+2026-11-12,expense,55000,supplier_payment,Ananya Fabrics - November restock,true
+2026-11-13,income,52000,customer_payment,Trendy Wear Exports - Invoice #231,true
+2026-11-14,expense,22000,salary,Staff salary - November week 2,true
+2026-11-15,income,38000,customer_payment,Style Hub Mumbai - Invoice #232,true
+2026-11-16,expense,28000,emi,EMI - Business expansion loan December,true
+2026-11-17,income,65000,customer_payment,Gupta Garments - Invoice #233,false
+2026-11-18,expense,45000,supplier_payment,Rajasthan Textiles - December consignment,true
+2026-11-19,income,42000,customer_payment,Modern Threads - Invoice #234,true
+2026-11-20,expense,22000,salary,Staff salary - November week 3,true
+2026-11-21,income,35000,customer_payment,Kapoor Fashion House - Invoice #235,true
+2026-11-22,expense,7200,utilities,Internet and phone - November,true
+2026-11-23,income,58000,customer_payment,Sharma Sarees - Invoice #236,true
+2026-11-24,expense,15000,gst,GST payment - December,true
+2026-11-25,income,48000,customer_payment,Luxe Boutique Delhi - Invoice #237,false
+2026-11-26,expense,9000,discretionary,Year end inventory audit,true
+2026-11-27,income,75000,customer_payment,Trendy Wear Exports - Invoice #238,true
+2026-11-28,expense,50000,supplier_payment,Ananya Fabrics - Year end stock,true
+2026-11-29,income,45000,customer_payment,Style Hub Mumbai - Invoice #239,true
+2026-11-30,expense,22000,salary,Staff salary - December week 1,true
+2026-12-01,income,38000,customer_payment,Gupta Garments - Invoice #240,true
+2026-12-02,expense,28000,emi,EMI - Business expansion loan January,true
+2026-12-03,income,68000,customer_payment,Kapoor Fashion House - Invoice #241,true
+2026-12-04,expense,42000,supplier_payment,Rajasthan Textiles - January consignment,true
+2026-12-05,income,52000,customer_payment,Sharma Sarees - Invoice #242,false
+2026-12-06,expense,22000,salary,Staff salary - December week 2,true
+2026-12-07,income,40000,customer_payment,Modern Threads - Invoice #243,true
+2026-12-08,expense,6800,utilities,Electricity bill - December,true
+2026-12-09,income,62000,customer_payment,Luxe Boutique Delhi - Invoice #244,true
+2026-12-10,expense,15000,gst,GST payment - January,true

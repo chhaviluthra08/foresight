@@ -1,0 +1,93 @@
+date,type,amount,category,description,confirmed
+2026-07-14,expense,38000,supplier_payment,Fresh Farms Delhi - Weekly produce,true
+2026-07-15,income,65000,customer_payment,ITC Hotel Catering Contract - July week 1,true
+2026-07-16,expense,25000,salary,Kitchen and serving staff - July week 1,true
+2026-07-17,income,42000,customer_payment,Oberoi Events - Corporate lunch Invoice #301,true
+2026-07-18,expense,8500,utilities,Gas and electricity - July,true
+2026-07-19,income,28000,advance,Wedding advance - Sharma family event,true
+2026-07-20,expense,15000,discretionary,New kitchen equipment partial,true
+2026-07-21,income,75000,customer_payment,ITC Hotel Catering Contract - July week 2,true
+2026-07-22,expense,35000,supplier_payment,Fresh Farms Delhi - Weekly produce,true
+2026-07-23,income,55000,customer_payment,Taj Events - Corporate dinner Invoice #302,true
+2026-07-24,expense,25000,salary,Kitchen and serving staff - July week 2,true
+2026-07-25,income,38000,customer_payment,Oberoi Events - Invoice #303,true
+2026-07-26,expense,18000,gst,GST payment - July,true
+2026-07-27,income,62000,customer_payment,ITC Hotel Catering Contract - July week 3,true
+2026-07-28,expense,9200,utilities,Refrigeration maintenance - July,true
+2026-07-29,income,45000,customer_payment,Gupta Wedding Caterers referral - Invoice #304,true
+2026-07-30,expense,40000,supplier_payment,Fresh Farms Delhi - Month end stock,true
+2026-07-31,income,80000,customer_payment,ITC Hotel Catering Contract - July week 4,true
+2026-08-01,expense,25000,salary,Kitchen and serving staff - August week 1,true
+2026-08-02,income,52000,customer_payment,Taj Events - Invoice #305,true
+2026-08-03,expense,32000,emi,EMI - Kitchen equipment loan August,true
+2026-08-04,income,35000,customer_payment,Oberoi Events - Invoice #306,true
+2026-08-05,expense,12000,discretionary,Catering van maintenance,true
+2026-08-06,income,70000,customer_payment,ITC Hotel Catering Contract - August week 1,true
+2026-08-07,expense,38000,supplier_payment,Fresh Farms Delhi - August stock,true
+2026-08-08,income,58000,customer_payment,Taj Events - Invoice #307,true
+2026-08-09,expense,25000,salary,Kitchen and serving staff - August week 2,true
+2026-08-10,income,40000,customer_payment,Gupta Wedding referral - Invoice #308,true
+2026-08-11,expense,8500,utilities,Gas and electricity - August,true
+2026-08-12,income,65000,customer_payment,ITC Hotel Catering Contract - August week 2,true
+2026-08-13,expense,18000,gst,GST payment - August,true
+2026-10-11,expense,42000,supplier_payment,Fresh Farms Delhi - October stock,true
+2026-10-12,expense,32000,emi,EMI - Kitchen equipment loan October,true
+2026-10-13,expense,38000,supplier_payment,Spice Garden Suppliers - Monthly order,true
+2026-10-14,expense,25000,salary,Kitchen and serving staff - October week 1,true
+2026-10-15,income,85000,customer_payment,ITC Hotel Catering Contract - October,false
+2026-10-16,expense,18000,gst,GST payment - October,true
+2026-10-17,income,65000,customer_payment,Taj Events - Diwali corporate dinner Invoice #309,false
+2026-10-18,expense,15000,utilities,Gas electricity and refrigeration - October,true
+2026-10-19,income,48000,customer_payment,Oberoi Events - Invoice #310,false
+2026-10-20,expense,35000,supplier_payment,Fresh Farms Delhi - Festival stock,true
+2026-10-21,income,38000,customer_payment,Sharma Wedding - Balance payment Invoice #311,false
+2026-10-22,expense,25000,salary,Kitchen and serving staff - October week 2,true
+2026-10-23,income,55000,customer_payment,Gupta Corporate Event - Invoice #312,false
+2026-10-24,expense,12000,discretionary,Festival decorations for catering events,true
+2026-10-25,income,42000,customer_payment,Modi Family Wedding - Advance Invoice #313,false
+2026-10-26,expense,40000,supplier_payment,Fresh Farms Delhi - Weekly produce,true
+2026-10-27,income,72000,customer_payment,ITC Hotel Catering Contract - October week 3,false
+2026-10-28,expense,25000,salary,Kitchen and serving staff - October week 3,true
+2026-10-29,income,35000,customer_payment,Taj Events - Invoice #314,false
+2026-10-30,expense,32000,emi,EMI - Kitchen equipment loan November,true
+2026-10-31,income,60000,customer_payment,Oberoi Events - Diwali event Invoice #315,false
+2026-11-01,expense,38000,supplier_payment,Spice Garden Suppliers - November order,true
+2026-11-02,income,45000,customer_payment,Sharma Wedding - Final payment Invoice #316,false
+2026-11-03,expense,25000,salary,Kitchen and serving staff - November week 1,true
+2026-11-04,income,80000,customer_payment,ITC Hotel Catering Contract - November,false
+2026-11-05,expense,8500,utilities,Gas and electricity - November,true
+2026-11-06,income,52000,customer_payment,Gupta Corporate - Invoice #317,false
+2026-11-07,expense,18000,gst,GST payment - November,true
+2026-11-08,income,38000,customer_payment,Modi Family - Balance Invoice #318,false
+2026-11-09,expense,35000,supplier_payment,Fresh Farms Delhi - November stock,true
+2026-11-10,income,65000,customer_payment,Taj Events - November corporate Invoice #319,true
+2026-11-11,expense,25000,salary,Kitchen and serving staff - November week 2,true
+2026-11-12,income,42000,customer_payment,Oberoi Events - Invoice #320,true
+2026-11-13,expense,40000,supplier_payment,Fresh Farms Delhi - Weekly produce,true
+2026-11-14,income,75000,customer_payment,ITC Hotel Catering Contract - November week 2,true
+2026-11-15,expense,32000,emi,EMI - Kitchen equipment loan December,true
+2026-11-16,income,55000,customer_payment,Sharma Events referral - Invoice #321,true
+2026-11-17,expense,25000,salary,Kitchen and serving staff - November week 3,true
+2026-11-18,income,48000,customer_payment,Gupta Corporate - Invoice #322,true
+2026-11-19,expense,38000,supplier_payment,Spice Garden Suppliers - December order,true
+2026-11-20,income,62000,customer_payment,Taj Events - Invoice #323,true
+2026-11-21,expense,8500,utilities,Gas electricity and refrigeration - November,true
+2026-11-22,income,35000,customer_payment,Modi Family - Invoice #324,true
+2026-11-23,expense,18000,gst,GST payment - December,true
+2026-11-24,income,70000,customer_payment,ITC Hotel Catering Contract - November week 3,true
+2026-11-25,expense,42000,supplier_payment,Fresh Farms Delhi - Festival stock,true
+2026-11-26,income,45000,customer_payment,Oberoi Events - Invoice #325,true
+2026-11-27,expense,25000,salary,Kitchen and serving staff - November week 4,true
+2026-11-28,income,58000,customer_payment,Sharma Events - Invoice #326,true
+2026-11-29,expense,35000,supplier_payment,Spice Garden Suppliers - Year end order,true
+2026-11-30,income,80000,customer_payment,ITC Hotel Catering Contract - December,true
+2026-12-01,expense,32000,emi,EMI - Kitchen equipment loan January,true
+2026-12-02,income,52000,customer_payment,Taj Events - December corporate Invoice #327,true
+2026-12-03,expense,25000,salary,Kitchen and serving staff - December week 1,true
+2026-12-04,income,42000,customer_payment,Gupta Corporate - Invoice #328,true
+2026-12-05,expense,40000,supplier_payment,Fresh Farms Delhi - December stock,true
+2026-12-06,income,65000,customer_payment,Oberoi Events - Invoice #329,true
+2026-12-07,expense,18000,gst,GST payment - January,true
+2026-12-08,income,38000,customer_payment,Modi Family - Invoice #330,true
+2026-12-09,expense,25000,salary,Kitchen and serving staff - December week 2,true
+2026-12-10,income,75000,customer_payment,ITC Hotel Catering Contract - December week 2,true
